@@ -69,4 +69,4 @@ Nah, itu tadi cara saya dalam mengatasi masalah ini, bagaimana dengan Anda ? SIl
 
 ###### Reference
 
-- [https://webkul.com/blog/serve-odoo-posbox-over-https/]: https://webkul.com/blog/serve-odoo-posbox-over-https/
+- https://webkul.com/blog/serve-odoo-posbox-over-https/
