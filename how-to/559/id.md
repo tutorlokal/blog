@@ -33,4 +33,4 @@ Hal itu dimungkinkan dengan menggunakan Javascript yang kita eksekusi melalui *C
 5. Selanjutnya Odoo akan merespon *event scan barcode* sesuai fitur yang tersedia.
 
 Berikut video demonstrasi ketika saya mencoba langkah-langkah di atas, selamat menyaksikan semoga bermanfaat !
-[![](https://img.youtube.com/vi/LQYGjeclD2Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=LQYGjeclD2Q "Testing Inventory Adjustments with Barcode Scan Simulation in Odoo")
+[![](https://raw.githubusercontent.com/tutorlokal/blog/master/how-to/559/media/1-odoo-barcode-scan-simulation-thumbnail.png)](https://www.youtube.com/watch?v=LQYGjeclD2Q "Testing Inventory Adjustments with Barcode Scan Simulation in Odoo")
