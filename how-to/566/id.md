@@ -1,8 +1,4 @@
-Apakah anda pernah membuat map dengan menggunakan salah satu pustaka Javascript yaitu **Leaflet** ? 
-
-[Leaflet]: https://leafletjs.com/	"LeafletJS"
-
- merupakan pustaka sumber terbuka untuk Javascript untuk membantu anda membangun aplikasi berbasis peta yang interaktif dan *mobile-friendly*. Dengan menggunakan pustaka ini, kita dapat dengan mudah membuat map pada aplikasi yang sedang kita kembangkan. Berikut contoh hasil tangkapan layar dari sebuah map yang saya buat menggunakan Leaflet.
+Apakah anda pernah membuat map dengan menggunakan salah satu pustaka Javascript yaitu **Leaflet** ? Leaflet merupakan pustaka sumber terbuka untuk Javascript untuk membantu anda membangun aplikasi berbasis peta yang interaktif dan *mobile-friendly*. Dengan menggunakan pustaka ini, kita dapat dengan mudah membuat map pada aplikasi yang sedang kita kembangkan. Berikut contoh hasil tangkapan layar dari sebuah map yang saya buat menggunakan Leaflet.
 
 ![](https://raw.githubusercontent.com/tutorlokal/blog/master/how-to/566/media/1-leaflet-map-attribution-show.jpg)
 
